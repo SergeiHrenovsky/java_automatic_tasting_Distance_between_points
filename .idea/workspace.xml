@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca3132dc-9b00-43d5-a82b-b5e7251cf175" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XTMT2nvORXDoN5SDmBxle8MwBw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java_automatic_tasting_Currency_Converter" />
+  </component>
+  <component name="RunManager" selected="JUnit.PointTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="java_automatic_tasting_Distance_between_points" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PointTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java_automatic_tasting_Distance_between_points" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.PointTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PointTest.distance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java_automatic_tasting_Distance_between_points" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.PointTest" />
+      <option name="METHOD_NAME" value="distance" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PointTest" />
+        <item itemvalue="JUnit.PointTest.distance" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca3132dc-9b00-43d5-a82b-b5e7251cf175" name="Default Changelist" comment="" />
+      <created>1581065635753</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581065635753</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="61" y="284" width="424" height="484" key="FileChooserDialogImpl" timestamp="1581066165562">
+      <screen x="61" y="27" width="1305" height="741" />
+    </state>
+    <state x="61" y="284" width="424" height="484" key="FileChooserDialogImpl/61.27.1305.741@61.27.1305.741" timestamp="1581066165562" />
+    <state width="875" height="120" key="GridCell.Tab.0.bottom" timestamp="1581066599257">
+      <screen x="61" y="27" width="1305" height="741" />
+    </state>
+    <state width="875" height="120" key="GridCell.Tab.0.bottom/61.27.1305.741@61.27.1305.741" timestamp="1581066599257" />
+    <state width="875" height="120" key="GridCell.Tab.0.center" timestamp="1581066599256">
+      <screen x="61" y="27" width="1305" height="741" />
+    </state>
+    <state width="875" height="120" key="GridCell.Tab.0.center/61.27.1305.741@61.27.1305.741" timestamp="1581066599256" />
+    <state width="875" height="120" key="GridCell.Tab.0.left" timestamp="1581066599256">
+      <screen x="61" y="27" width="1305" height="741" />
+    </state>
+    <state width="875" height="120" key="GridCell.Tab.0.left/61.27.1305.741@61.27.1305.741" timestamp="1581066599256" />
+    <state width="875" height="120" key="GridCell.Tab.0.right" timestamp="1581066599256">
+      <screen x="61" y="27" width="1305" height="741" />
+    </state>
+    <state width="875" height="120" key="GridCell.Tab.0.right/61.27.1305.741@61.27.1305.741" timestamp="1581066599256" />
+  </component>
+</project>
